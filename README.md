@@ -6,7 +6,7 @@
 
 3. Ejecutar el comando `npm run start` para ejecutar el proyecto en modo local.
 
-## Puede probar el proyecto de 2 formas:
+## Puede probar el proyecto de 3 formas:
 
     1. Postman:
     	Realizar una solicitud GET a los diferentes endpoints:
@@ -18,3 +18,11 @@
 
     2. Swagger:
     	Abrir el navegador en la ruta http://localhost:3000/api
+
+    3. Servidor Heroku:
+    	Realizar una solicitud GET a los diferentes endpoints:
+    		1.1 Listado de 100 pokemon: https://api-connector-pokemon-cbe2e4118ccb.herokuapp.com/api/pokemon
+
+    		1.2 Listado de un pokemon por ID: https://api-connector-pokemon-cbe2e4118ccb.herokuapp.com/api/pokemon/5
+
+    		1.3 Listado de un pokemon y sus tipos por ID: https://api-connector-pokemon-cbe2e4118ccb.herokuapp.com/api/pokemonAndTypes/5
