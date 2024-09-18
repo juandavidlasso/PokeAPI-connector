@@ -20,7 +20,7 @@
     	Abrir el navegador en la ruta http://localhost:3000/api
 
     3. Servidor Heroku:
-    	Realizar una solicitud GET a los diferentes endpoints:
+    	Abrir en el navegador web los diferentes endpoints:
     		1.1 Listado de 100 pokemon: https://api-connector-pokemon-cbe2e4118ccb.herokuapp.com/api/pokemon
 
     		1.2 Listado de un pokemon por ID: https://api-connector-pokemon-cbe2e4118ccb.herokuapp.com/api/pokemon/5
